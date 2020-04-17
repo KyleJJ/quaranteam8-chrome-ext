@@ -1,0 +1,1 @@
+# quaranteam8-chrome-ext
